@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\lab3\lab3\bin\Debug\net6.0\Rectangle.exe
+C:\Users\Thorfin\source\repos\lab3\lab3\bin\Debug\net6.0\Rectangle.deps.json
+C:\Users\Thorfin\source\repos\lab3\lab3\bin\Debug\net6.0\Rectangle.runtimeconfig.json
+C:\Users\Thorfin\source\repos\lab3\lab3\bin\Debug\net6.0\Rectangle.dll
+C:\Users\Thorfin\source\repos\lab3\lab3\bin\Debug\net6.0\Rectangle.pdb
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.dll
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\refint\Rectangle.dll
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.pdb
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\Rectangle.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\lab3\lab3\obj\Debug\net6.0\ref\Rectangle.dll
